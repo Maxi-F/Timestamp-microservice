@@ -28,4 +28,4 @@ localhost:3000/api/timestamp/2018-09-21 // ISO-8601 format
 localhost:3000/api/timestamp/190000000 // milliseconds
 ```
 
-this project is a challenge of the freeCodeCamp's curriculum. for more info, go to freecodecamp.org .
+this project is a challenge of the freeCodeCamp's curriculum. for more info, go to https://www.freecodecamp.org/ .
